@@ -1,0 +1,14 @@
+{
+  "name": "silobase-app",
+  "version": "1.0.0",
+  "description": "Silobase deployment on Render",
+  "scripts": {
+    "start": "silobase start"
+  },
+  "dependencies": {
+    "silobase": "1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
