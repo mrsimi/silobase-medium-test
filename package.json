@@ -6,7 +6,7 @@
     "start": "silobase start"
   },
   "dependencies": {
-    "silobase": "2.0.2"
+    "silobase": "2.0.3"
   },
   "engines": {
     "node": ">=18"
